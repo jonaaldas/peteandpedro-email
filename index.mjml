@@ -1,0 +1,202 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="Helvetica Neue" />
+      <mj-section padding="0px" />
+      <mj-column padding="0px" />
+      <mj-text padding="0px" />
+      <mj-image padding="0px" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body width="650px">
+    <mj-section>
+      <mj-column width="650px">
+        <mj-image href="#" src="/img/unnamed.png" alt="logo" />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image href="#" src="/img/PPlogo.jpeg" alt="" />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image href="#" src="/img/PPbanner.png" alt="" />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image href="#" src="/img/product1.png" alt="" />
+      </mj-column>
+      <mj-column>
+        <mj-image href="#" src="/img/product2.png" alt="" />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image href="#" src="/img/product3.png" alt="" />
+      </mj-column>
+      <mj-column>
+        <mj-image href="#" src="/img/product4.png" alt="" />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image href="#" src="/img/product5.png" alt="" />
+      </mj-column>
+      <mj-column>
+        <mj-image href="#" src="/img/product6.png" alt="" />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image href="#" src="/img/product7.png" alt="" />
+      </mj-column>
+      <mj-column>
+        <mj-image href="#" src="/img/product8.png" alt="" />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image href="#" src="/img/product9.png" alt="" />
+      </mj-column>
+      <mj-column>
+        <mj-image href="#" src="/img/product10.png" alt="" />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image href="#" src="/img/product11.png" alt="" />
+      </mj-column>
+      <mj-column>
+        <mj-image href="#" src="/img/product12.png" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image href="#" src="/img/resolutionhelo.png" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image href="#" src="/img/stylingAids.gif" alt="" />
+      </mj-column>
+      <mj-column>
+        <mj-image href="#" src="/img/shaving.gif" alt="" />
+      </mj-column>
+      <mj-column>
+        <mj-image href="#" src="/img/beards.gif" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image href="#" src="/img/bestSellers.gif" alt="" />
+      </mj-column>
+      <mj-column>
+        <mj-image href="#" src="/img/fragrance.gif" alt="" />
+      </mj-column>
+      <mj-column>
+        <mj-image href="#" src="/img/sets.gif" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image href="#" src="/img/tools.gif" alt="" />
+      </mj-column>
+      <mj-column>
+        <mj-image href="#" src="/img/shampoos.gif" alt="" />
+      </mj-column>
+      <mj-column>
+        <mj-image href="#" src="/img/new.gif" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image href="#" src="/img/bodyWashes.gif" alt="" />
+      </mj-column>
+      <mj-column>
+        <mj-image href="#" src="/img/conditioners.gif" alt="" />
+      </mj-column>
+      <mj-column>
+        <mj-image href="#" src="/img/buildYourOwnKit.gif" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image href="#" src="/img/joinPedro.gif" alt="" />
+      </mj-column>
+      <mj-column>
+        <mj-image href="#" src="/img/getExpertAdvice.gif" alt="" />
+      </mj-column>
+      <mj-column>
+        <mj-image href="#" src="/img/pedro blog.gif" alt="" />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image href="#" src="/img/TakeOurQuizzes.jpg" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image href="#" src="/img/hairstyling.jpg" alt="" />
+      </mj-column>
+      <mj-column>
+        <mj-image href="#" src="/img/problemSolvers.jpg" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image href="#" src="/img/shampoo.jpg" alt="" />
+      </mj-column>
+      <mj-column>
+        <mj-image href="#" src="/img/fraranceBtn.jpg" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image href="#" src="/img/cuponCode.gif" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image href="#" src="/img/social-tiktok.gif" alt="" />
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section background-color="black">
+      <mj-column>
+        <mj-text color="#999999" align="center" padding="30px">
+          Pete and Pedro
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="black">
+      <mj-column>
+        <mj-text color="#999999" align="center">
+          Mailing Address: 869 Pickens Industrial Drive Unit #6 Marietta, GA 30062
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="black">
+      <mj-column>
+        <mj-text color="#999999" align="center">
+          Be sure to add our email address: <a href="#">sales@peteandpedro.com</a> to your contacts
+          so that it gets delivered timely to your main inbox and not spam!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    
+  </mj-body>
+</mjml>
